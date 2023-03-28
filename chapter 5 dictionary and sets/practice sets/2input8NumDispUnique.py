@@ -1,0 +1,12 @@
+#wapp to input eight numbers form the user and display all the unique numbers()
+b=set()
+f1=int(input("Enter number 1: "))
+f2=int(input("Enter number 2: "))
+f3=int(input("Enter number 3: "))
+f4=int(input("Enter number 4: "))
+f5=int(input("Enter number 5: "))
+f6=int(input("Enter number 6: "))
+f7=int(input("Enter number 7: "))
+f8=int(input("Enter number 8: "))
+b={f1,f2,f3,f4,f5,f6,f7,f8}
+print(b)
